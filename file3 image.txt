@@ -1,0 +1,22 @@
+C:\Users\ajcemca\PycharmProjects\pythonProject2\venv\Scripts\python.exe "C:/Users/ajcemca/PycharmProjects/pythonProject2/An
+jali Raj/file3.py"
+The content of the file is ['0.Python is an interpreted, high-level and general-purpose programming language.\n',
+ "1.Python's design philosophy emphasizes code readability with its notable use of significant whitespace.\n",
+ '2.Its language constructs and object-oriented approach aim to help programmers write clear, 
+logical code for small and large-scale projects.\n', '3.Python is dynamically-typed and garbage-collected.\n',
+ '4.It supports multiple programming paradigms, including structured (particularly, procedural),
+ object-oriented and functional programming.\n', '5.Python is often described as a "batteries included" language due to its
+ comprehensive standard library.\n', '6.Python was created in the late 1980s, and first released in 1991, by Guido van Ross
+um as a successor to the ABC programming language.\n', '7.Python 2.0, released in 2000, introduced new features, such as li
+st comprehensions, and a garbage collection system with reference counting, and was discontinued with version 2.7 in 2020.\
+n', '8.Python 3.0, released in 2008, was a major revision of the language that is not completely backward-compatible and mu
+ch Python 2 code does not run unmodified on Python 3.\n', "9.With Python 2's end-of-life (and pip having dropped support in
+ 2021[32]), only Python 3.6.x[33] and later are supported, with older versions still supporting e.g. Windows 7 (and old ins
+tallers not restricted to 64-bit Windows).\n", '10.Python interpreters are supported for mainstream operating systems and a
+vailable for a few more (and in the past supported many more).\n', '11.A global community of programmers develops and maint
+ains CPython, a free and open-source[34] reference implementation.\n', '12.A non-profit organization, the Python Software F
+oundation, manages and directs resources for Python and CPython development.\n', '13.As of January 2021, Python ranks third
+ in TIOBEâ€™s index of most popular programming languages, behind C and Java, having previously gained second place and the
+ir award for the most popularity gain for 2020.']
+
+Process finished with exit code 0

@@ -1,0 +1,6 @@
+f=open("Demo2.txt","w")
+f.write("Woops!!!!I had deleted the original content")
+f.close()
+f=open("Demo2.txt","r")
+print(f.read())
+f.close()
